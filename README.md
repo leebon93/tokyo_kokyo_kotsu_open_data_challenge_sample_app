@@ -18,3 +18,5 @@
 ## 関連記事
 - GoogleMap を表示するアプリを 0から作ってみよう！  
 https://qiita.com/leebon93/items/d726392f0baafa907879
+- リリースしたアプリの GoogleMap が表示されない！  
+https://qiita.com/leebon93/items/1327e97f3898eaa05896
